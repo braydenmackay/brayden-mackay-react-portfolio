@@ -18,7 +18,7 @@ export default class PortfolioManager extends Component {
     this.handleFormSubmissionError = this.handleFormSubmissionError.bind(this)
     this.handleDeleteClick = this.handleDeleteClick.bind(this)
   }
-
+  // I think you did
   handleDeleteClick(portfolioItem) {
     axios
       .delete(
