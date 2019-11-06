@@ -224,9 +224,9 @@ export default class PortfolioForm extends Component {
             value={this.state.category}
             onChange={this.handleChange}
           >
-            <option value="eCommerce">eCommerce</option>
-            <option value="Scheduling">Scheduling</option>
-            <option value="Enterprise">Enterprise</option>
+            <option value="Front-end">Front-end</option>
+            <option value="Back-end">Back-end</option>
+            <option value="Full-stack">Full-stack</option>
           </select>
         </div>
 
