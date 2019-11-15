@@ -13,8 +13,8 @@ export default function() {
         }}
       />
       <div className="right-column">
-        My name is Brayden. I am awesome. I am a software developer. Hire me and
-        your company will be awesome too.
+        My name is Brayden and I am a software developer. Please reach out to me
+        to discuss any projects and/or employment opportunities you may have!
       </div>
     </div>
   )
